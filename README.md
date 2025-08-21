@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Proposta de Parceria Estratégica - João Alves</title>
+    <title>Proposta de Parceria Estrategica - Diferenciais Marketing</title>
     <style>
         * {
             margin: 0;
@@ -12,7 +12,7 @@
         }
         
         body {
-            font-family: 'Inter', 'Segoe UI', system-ui, -apple-system, sans-serif;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
             line-height: 1.6;
             color: #1a1a1a;
             background: #f8fafc;
@@ -541,7 +541,7 @@
 <body>
     <div class="container">
         <div class="header">
-            <h1>Proposta de Parceria Estratégica</h1>
+            <h1>Proposta de Parceria Estrategica</h1>
             <div class="subtitle">Marketing e Branding</div>
             <div class="client-info">
                 <div>
@@ -550,7 +550,7 @@
                 </div>
                 <div>
                     <div class="label">Cliente</div>
-                    <div class="value">João Bosco (Escritório + Bossacf Bistrô + São Carinpudas)</div>
+                    <div class="value">Joao Bosco (Escritorio + Bossacf Bistro + Sao Carinpudas)</div>
                 </div>
             </div>
         </div>
@@ -561,54 +561,54 @@
                     <div class="section-number">01</div>
                     <h2>O Desafio Identificado</h2>
                 </div>
-                <p>Três negócios com grande potencial precisam de uma estratégia integrada para maximizar seu crescimento e consolidação no mercado.</p>
+                <p>Tres negocios com grande potencial precisam de uma estrategia integrada para maximizar seu crescimento e consolidacao no mercado.</p>
                 
                 <div class="challenge-grid">
                     <div class="challenge-item">
-                        <h3>Escritório Jurídico</h3>
-                        <p>Captar leads qualificados e humanizar a marca para gerar mais conversões</p>
+                        <h3>Escritorio Juridico</h3>
+                        <p>Captar leads qualificados e humanizar a marca para gerar mais conversoes</p>
                     </div>
                     <div class="challenge-item">
-                        <h3>Bossacf Bistrô</h3>
-                        <p>Consolidar presença digital para atrair e fidelizar público de alto padrão</p>
+                        <h3>Bossacf Bistro</h3>
+                        <p>Consolidar presenca digital para atrair e fidelizar publico de alto padrao</p>
                     </div>
                     <div class="challenge-item">
-                        <h3>São Carinpudas</h3>
+                        <h3>Sao Carinpudas</h3>
                         <p>Aumentar pedidos via iFood e construir relacionamento duradouro com clientes</p>
                     </div>
                 </div>
                 
                 <div class="opportunity-box">
-                    <strong>A oportunidade:</strong> unificar a comunicação dos três CNPJs com identidade consistente e estratégia personalizada para cada público, criando sinergia entre os negócios.
+                    <strong>A oportunidade:</strong> unificar a comunicacao dos tres CNPJs com identidade consistente e estrategia personalizada para cada publico, criando sinergia entre os negocios.
                 </div>
             </div>
             
             <div class="section">
                 <div class="section-header">
                     <div class="section-number">02</div>
-                    <h2>Nossa Solução Estratégica</h2>
+                    <h2>Nossa Solucao Estrategica</h2>
                 </div>
                 
                 <div class="solution-grid">
                     <div class="solution-item">
-                        <h3>Para o Escritório João Bosco</h3>
+                        <h3>Para o Escritorio Joao Bosco</h3>
                         <ul>
-                            <li>3 vídeos semanais (autoridade + humanização)</li>
-                            <li>2 criativos de tráfego pago</li>
+                            <li>3 videos semanais (autoridade + humanizacao)</li>
+                            <li>2 criativos de trafego pago</li>
                             <li>Acompanhamento completo nas redes sociais</li>
                         </ul>
                         <div class="meta-box">
-                            <strong>Meta:</strong> 35+ leads qualificados/mês
+                            <strong>Meta:</strong> 35+ leads qualificados/mes
                         </div>
                     </div>
                     <div class="solution-item">
-                        <h3>Para Bossacf Bistrô e São Carinpudas</h3>
+                        <h3>Para Bossacf Bistro e Sao Carinpudas</h3>
                         <p style="margin-bottom: 15px; font-weight: 500;">Cada restaurante recebe:</p>
                         <ul>
-                            <li>3 vídeos semanais</li>
-                            <li>2 criativos de tráfego pago</li>
-                            <li>Catálogo digital completo</li>
-                            <li>Configuração e otimização do iFood</li>
+                            <li>3 videos semanais</li>
+                            <li>2 criativos de trafego pago</li>
+                            <li>Catalogo digital completo</li>
+                            <li>Configuracao e otimizacao do iFood</li>
                         </ul>
                         <div class="meta-box">
                             <strong>Meta:</strong> 250+ leads/pedidos por estabelecimento
@@ -616,16 +616,16 @@
                     </div>
                 </div>
                 
-                <h3 style="margin: 40px 0 20px 0; color: #1e293b; font-size: 1.3rem;">Benefícios Extras Inclusos</h3>
+                <h3 style="margin: 40px 0 20px 0; color: #1e293b; font-size: 1.3rem;">Beneficios Extras Inclusos</h3>
                 <div class="benefits-grid">
                     <div class="benefit-item"><span>Identidade visual e verbal completa para os 3 CNPJs</span></div>
-                    <div class="benefit-item"><span>Consultoria estratégica contínua</span></div>
+                    <div class="benefit-item"><span>Consultoria estrategica continua</span></div>
                     <div class="benefit-item"><span>Time dedicado: profissional adicional para garantir qualidade</span></div>
                     <div class="benefit-item"><span>Treinamento da equipe para atendimento digital</span></div>
-                    <div class="benefit-item"><span>Relatórios mensais de performance com otimização constante</span></div>
-                    <div class="benefit-item"><span>Backup garantido: nunca haverá atraso por sobrecarga</span></div>
-                    <div class="benefit-item"><span>Bônus por metas atingidas: conteúdos extras sem custo</span></div>
-                    <div class="benefit-item"><span>Consultoria de expansão: análise de cardápio e estratégias</span></div>
+                    <div class="benefit-item"><span>Relatorios mensais de performance com otimizacao constante</span></div>
+                    <div class="benefit-item"><span>Backup garantido: nunca havera atraso por sobrecarga</span></div>
+                    <div class="benefit-item"><span>Bonus por metas atingidas: conteudos extras sem custo</span></div>
+                    <div class="benefit-item"><span>Consultoria de expansao: analise de cardapio e estrategias</span></div>
                 </div>
             </div>
             
@@ -637,8 +637,8 @@
                 
                 <div class="differentials-grid">
                     <div class="differential-item">
-                        <strong>Gestor de tráfego especialista</strong>
-                        <p>Experiência comprovada em campanhas de alta performance e otimização de ROI</p>
+                        <strong>Gestor de trafego especialista</strong>
+                        <p>Experiencia comprovada em campanhas de alta performance e otimizacao de ROI</p>
                     </div>
                     <div class="differential-item">
                         <strong>Time dedicado</strong>
@@ -646,19 +646,19 @@
                     </div>
                     <div class="differential-item">
                         <strong>Proximidade real</strong>
-                        <p>Acompanhamento direto e personalizado com ajustes rápidos quando necessário</p>
+                        <p>Acompanhamento direto e personalizado com ajustes rapidos quando necessario</p>
                     </div>
                     <div class="differential-item">
-                        <strong>Visão estratégica</strong>
-                        <p>Não apenas execução, mas planejamento integral de crescimento sustentável</p>
+                        <strong>Visao estrategica</strong>
+                        <p>Nao apenas execucao, mas planejamento integral de crescimento sustentavel</p>
                     </div>
                     <div class="differential-item">
                         <strong>Criatividade diferenciada</strong>
-                        <p>Conteúdo autêntico e impactante que marca presença e gera conversões</p>
+                        <p>Conteudo autentico e impactante que marca presenca e gera conversoes</p>
                     </div>
                     <div class="differential-item">
-                        <strong>Transparência total</strong>
-                        <p>Relatórios detalhados e claros que demonstram ROI real dos investimentos</p>
+                        <strong>Transparencia total</strong>
+                        <p>Relatorios detalhados e claros que demonstram ROI real dos investimentos</p>
                     </div>
                 </div>
             </div>
@@ -675,40 +675,40 @@
                             <thead>
                                 <tr>
                                     <th>Etapa</th>
-                                    <th>Condição para Avanço</th>
+                                    <th>Condicao para Avanco</th>
                                     <th>Investimento</th>
                                 </tr>
                             </thead>
                             <tbody>
                                 <tr>
                                     <td><strong>Meta 1</strong></td>
-                                    <td>Estruturas de branding + iFood otimizado + 35 leads escritório OU 250 pedidos restaurantes</td>
-                                    <td><span class="price">R$ 2.500/mês</span></td>
+                                    <td>Estruturas de branding + iFood otimizado + 35 leads escritorio OU 250 pedidos restaurantes</td>
+                                    <td><span class="price">R$ 2.500/mes</span></td>
                                 </tr>
                                 <tr>
                                     <td><strong>Meta 2</strong></td>
-                                    <td>100 leads qualificados escritório + 700 pedidos iFood</td>
-                                    <td><span class="price">R$ 5.500/mês</span></td>
+                                    <td>100 leads qualificados escritorio + 700 pedidos iFood</td>
+                                    <td><span class="price">R$ 5.500/mes</span></td>
                                 </tr>
                                 <tr>
                                     <td><strong>Meta Final</strong></td>
                                     <td>Fluxo consolidado e recorrente</td>
-                                    <td><span class="price">R$ 7.000/mês</span></td>
+                                    <td><span class="price">R$ 7.000/mes</span></td>
                                 </tr>
                             </tbody>
                         </table>
                     </div>
                     
                     <div class="advantage-box">
-                        <strong>Vantagem competitiva:</strong> você investe mais apenas quando os resultados estão comprovados e gerando retorno real.
+                        <strong>Vantagem competitiva:</strong> voce investe mais apenas quando os resultados estao comprovados e gerando retorno real.
                     </div>
                     
                     <div class="investment-note">
-                        <h4>Investimentos Recomendados (não obrigatórios inicialmente)</h4>
+                        <h4>Investimentos Recomendados (nao obrigatorios inicialmente)</h4>
                         <ul>
-                            <li><strong>Tráfego pago:</strong> R$ 1.000/mês por negócio (total R$ 3.000/mês)</li>
-                            <li><strong>Foco inicial:</strong> Pelo menos 1 CNPJ para otimização de recursos</li>
-                            <li><strong>Pagamento:</strong> Valores direcionados diretamente às plataformas (Meta, Google, etc.)</li>
+                            <li><strong>Trafego pago:</strong> R$ 1.000/mes por negocio (total R$ 3.000/mes)</li>
+                            <li><strong>Foco inicial:</strong> Pelo menos 1 CNPJ para otimizacao de recursos</li>
+                            <li><strong>Pagamento:</strong> Valores direcionados diretamente as plataformas (Meta, Google, etc.)</li>
                         </ul>
                     </div>
                 </div>
@@ -727,18 +727,18 @@
                     </div>
                     <div class="timeline-item">
                         <h4>60 dias</h4>
-                        <p>Primeiros resultados mensuráveis com relatórios detalhados de performance</p>
+                        <p>Primeiros resultados mensuráveis com relatorios detalhados de performance</p>
                     </div>
                     <div class="timeline-item">
                         <h4>A partir dos 60 dias</h4>
-                        <p>Avaliação completa e possível escalonamento para próxima meta</p>
+                        <p>Avaliacao completa e possivel escalonamento para proxima meta</p>
                     </div>
                 </div>
             </div>
             
             <div class="closing-section">
-                <h2>Uma Parceria para Crescimento Sustentável</h2>
-                <p>Esta proposta foi desenvolvida para gerar resultados reais e mensuráveis. Mais do que um fornecedor de marketing, você terá um parceiro estratégico focado no crescimento sustentável dos seus três negócios, com total transparência e compromisso com a excelência.</p>
+                <h2>Uma Parceria para Crescimento Sustentavel</h2>
+                <p>Esta proposta foi desenvolvida para gerar resultados reais e mensuraveis. Mais do que um fornecedor de marketing, voce tera um parceiro estrategico focado no crescimento sustentavel dos seus tres negocios, com total transparencia e compromisso com a excelencia.</p>
             </div>
         </div>
     </div>
